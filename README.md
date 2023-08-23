@@ -15,3 +15,9 @@
 - Complete the Competition Report
 - Standout Suggestions
 
+# Project Summary
+- The project will give you the opportunity to:
+   - Create a model for the Predict Bike Sharing Demand Kaggle competition
+   - Use AutoGluon to build and evaluate models
+   - Compete in Kaggle by submitting your model and receive a ranking
+   - Create a report of ML discoveries so you can showcase your work
