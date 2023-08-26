@@ -15,9 +15,18 @@
 - Complete the Competition Report
 - Standout Suggestions
 
-# Project Summary
-- The project will give you the opportunity to:
-   - Create a model for the Predict Bike Sharing Demand Kaggle competition
-   - Use AutoGluon to build and evaluate models
-   - Compete in Kaggle by submitting your model and receive a ranking
-   - Create a report of ML discoveries so you can showcase your work
+## Environment and Dependencies
+- If you're going to be working on your own machine, make sure you have everything listed below.
+   - python 3.7
+   - jupyter lab
+   -  MXNet 1.8
+   -  AutoGluon
+
+## Project Instructions
+  -  Create an account with Kaggle.
+  -  Download the Kaggle dataset using the kaggle python library.
+  -  Train a model using AutoGluon’s Tabular Prediction and submit predictions to Kaggle for ranking.
+  -  Use Pandas to do some exploratory analysis and create a new feature, saving new versions of the train and test dataset.
+  -  Rerun the model and submit the new predictions for ranking.
+  -  Tune at least 3 different hyperparameters from AutoGluon and resubmit predictions to rank higher on Kaggle.
+  -  Write up a report on how improvements (or not) were made by either creating additional features or tuning hyperparameters, and why you think one or the other is the best approach to invest more time in.
